@@ -2,7 +2,7 @@
 
 <div>
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=OtavioMello&show_icons=true&theme=onedark&count_private=true" alt="Anurag's GitHub stats (https://github.com/anuraghazra/github-readme-stats)">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMello&layout=compact&theme=onedark" alt="Top Langs (https://github.com/anuraghazra/github-readme-stats)">
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMello&theme=onedark" alt="Top Langs (https://github.com/anuraghazra/github-readme-stats)">
 </div>
 
 <div style="display: inline_block">
