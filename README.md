@@ -2,15 +2,15 @@
 
 ##
 
-<div>
-<img align="center" src="https://i0.wp.com/www.togeproductions.com/wp-content/uploads/2018/07/CT-HeaderCityAnim-1.gif?resize=1080%2C432" alt="FONT: https://www.togeproductions.com/project/coffee-talk/">
+<div align="center">
+<a href= "https://www.it8bit.com/post/678166050347630592/a-galaxy-far-far-away-gif-by-pixel-jeff-ig"><img height=500em src="https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif" alt="FONT: https://www.it8bit.com/post/678166050347630592/a-galaxy-far-far-away-gif-by-pixel-jeff-ig"></a>
 </div>
 
 ##
 
 <div align="center">
-  <img height=150em src="https://github-readme-stats.vercel.app/api?username=OtavioMello&show_icons=true&theme=onedark&count_private=true" alt="Anurag's GitHub stats (https://github.com/anuraghazra/github-readme-stats)">
-  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMello&theme=onedark" alt="Top Langs (https://github.com/anuraghazra/github-readme-stats)">
+  <img height=150em src="https://github-readme-stats.vercel.app/api?username=OtavioMello&show_icons=true&theme=tokyonight&count_private=true" alt="Anurag's GitHub stats (https://github.com/anuraghazra/github-readme-stats)">
+  <img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMello&theme=tokyonight" alt="Top Langs (https://github.com/anuraghazra/github-readme-stats)">
 </div>
 
 
