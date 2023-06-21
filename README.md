@@ -22,5 +22,3 @@
 
 ##
 
-![Snake animation](https://github.com/OtavioMello/OtavioMello/blob/output/github-contribution-grid-snake.svg)
-
